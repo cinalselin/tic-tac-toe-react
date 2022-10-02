@@ -4,8 +4,8 @@ Simple Tic Tac Toe game created with React
 
 ## Demo
 
-https://cinalselin-react-beer-app.netlify.app/
+https://cinalselin-tic-tac-toe.netlify.app/
 
 ## Screenshots
 
-![App Screenshot](./src/Images/Screenshot.png)
+![App Screenshot](./src/Images/screenshot.png)
